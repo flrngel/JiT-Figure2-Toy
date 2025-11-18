@@ -1,4 +1,4 @@
-# Reproducing Figure 2 from **“Back to Basics: Let Denoising Generative Models Denoise” (Li & He, 2025)**
+# Reproducing Figure 2 from **“Back to Basics: Let Denoising Generative Models Denoise”
 
 This repo contains a minimal Colab-friendly implementation that recreates **Figure 2** from the paper:  
 https://arxiv.org/abs/2511.13720
