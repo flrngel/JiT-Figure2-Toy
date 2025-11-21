@@ -23,4 +23,4 @@ The goal is to show how **x-prediction**, **ε-prediction**, and **v-prediction*
 
 ## Output
 
-#![Figure 2 Reproduction](output.png)
+#![Figure 2 Reproduction](diffusion_samples.png)
